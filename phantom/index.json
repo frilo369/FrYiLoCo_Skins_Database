@@ -1,15 +1,15 @@
 {
   "generator": "phantom-2",
-  "toolVersion": "0.1.2",
+  "toolVersion": "0.1.4",
   "gameBuild": "16.19.8230722",
-  "generatedAt": "2026-10-06T15:35:40.107327800+00:00",
+  "generatedAt": "2026-10-06T17:19:15.685200500+00:00",
   "champions": 173,
   "candidates": 8985,
-  "accepted": 8978,
-  "skipped": 7,
+  "accepted": 8985,
+  "skipped": 0,
   "referenceMatched": 0,
-  "referencePreserved": 0,
-  "fingerprint": "1d0244fd89a92aeee7a3a8775036576322d2fc5571221c25c80f7817ca3a70ef",
+  "referencePreserved": 7,
+  "fingerprint": "e96ae4d9614bfb17143d6c84e576db821ac03ca8e746abdc9dce2fe014c8b4ce",
   "liveGameVerified": false,
   "databaseState": {
     "version": 1,
@@ -111313,12 +111313,12 @@
       "parent": null,
       "name": "Revenant Reign Viego",
       "relative": "234/234043/234043.fantome",
-      "status": "skipped",
-      "sha256": null,
+      "status": "accepted",
+      "sha256": "6f383a1d9a554b018fa75dd684738705b8702026665e22f50ebc08ad25122044",
       "reference_matched": false,
       "origin": "reference-adapted",
-      "reference_sha256": null,
-      "reason": "failed to query metadata of file `C:\\Users\\fryil\\OneDrive\\Documents\\FrYiLo Skins Database\\Riot Skins\\234/234043/234043.fantome`: The system cannot find the path specified. (os error 3)"
+      "reference_sha256": "6f383a1d9a554b018fa75dd684738705b8702026665e22f50ebc08ad25122044",
+      "reason": null
     },
     {
       "champion_id": 234,
@@ -111327,12 +111327,12 @@
       "parent": 234043,
       "name": "Revenant Reign Viego (Assassin Sword)",
       "relative": "234/234043/234994/234994.fantome",
-      "status": "skipped",
-      "sha256": null,
+      "status": "accepted",
+      "sha256": "2dc486937a5f74484b377b6086710df141cf40a1aa82eca00c4faffc26b05472",
       "reference_matched": false,
       "origin": "reference-adapted",
-      "reference_sha256": null,
-      "reason": "failed to query metadata of file `C:\\Users\\fryil\\OneDrive\\Documents\\FrYiLo Skins Database\\Riot Skins\\234/234043/234994/234994.fantome`: The system cannot find the path specified. (os error 3)"
+      "reference_sha256": "2dc486937a5f74484b377b6086710df141cf40a1aa82eca00c4faffc26b05472",
+      "reason": null
     },
     {
       "champion_id": 234,
@@ -111341,12 +111341,12 @@
       "parent": 234043,
       "name": "Revenant Reign Viego (Fighter Sword)",
       "relative": "234/234043/234995/234995.fantome",
-      "status": "skipped",
-      "sha256": null,
+      "status": "accepted",
+      "sha256": "6e3561237512a7ba1950a2e42ca2139d685ddd9e6a31195d0556c213dcba7b5e",
       "reference_matched": false,
       "origin": "reference-adapted",
-      "reference_sha256": null,
-      "reason": "failed to query metadata of file `C:\\Users\\fryil\\OneDrive\\Documents\\FrYiLo Skins Database\\Riot Skins\\234/234043/234995/234995.fantome`: The system cannot find the path specified. (os error 3)"
+      "reference_sha256": "6e3561237512a7ba1950a2e42ca2139d685ddd9e6a31195d0556c213dcba7b5e",
+      "reason": null
     },
     {
       "champion_id": 234,
@@ -111355,12 +111355,12 @@
       "parent": 234043,
       "name": "Revenant Reign Viego (Mage Sword)",
       "relative": "234/234043/234996/234996.fantome",
-      "status": "skipped",
-      "sha256": null,
+      "status": "accepted",
+      "sha256": "e07607ebd1dd89a9a232e0f3640240ca10695a1adbdfdf2ea2f886ada0139e60",
       "reference_matched": false,
       "origin": "reference-adapted",
-      "reference_sha256": null,
-      "reason": "failed to query metadata of file `C:\\Users\\fryil\\OneDrive\\Documents\\FrYiLo Skins Database\\Riot Skins\\234/234043/234996/234996.fantome`: The system cannot find the path specified. (os error 3)"
+      "reference_sha256": "e07607ebd1dd89a9a232e0f3640240ca10695a1adbdfdf2ea2f886ada0139e60",
+      "reason": null
     },
     {
       "champion_id": 234,
@@ -111369,12 +111369,12 @@
       "parent": 234043,
       "name": "Revenant Reign Viego (Marksman Sword)",
       "relative": "234/234043/234997/234997.fantome",
-      "status": "skipped",
-      "sha256": null,
+      "status": "accepted",
+      "sha256": "37d0197a46599e39e3636918b7dac8479f5650769a49d01f8755d630aaa8fc36",
       "reference_matched": false,
       "origin": "reference-adapted",
-      "reference_sha256": null,
-      "reason": "failed to query metadata of file `C:\\Users\\fryil\\OneDrive\\Documents\\FrYiLo Skins Database\\Riot Skins\\234/234043/234997/234997.fantome`: The system cannot find the path specified. (os error 3)"
+      "reference_sha256": "37d0197a46599e39e3636918b7dac8479f5650769a49d01f8755d630aaa8fc36",
+      "reason": null
     },
     {
       "champion_id": 234,
@@ -111383,12 +111383,12 @@
       "parent": 234043,
       "name": "Revenant Reign Viego (Support Sword)",
       "relative": "234/234043/234998/234998.fantome",
-      "status": "skipped",
-      "sha256": null,
+      "status": "accepted",
+      "sha256": "91068bab84cb3929f953959ee255f5b70ea60c848256df31dc7e90b413c6c2d1",
       "reference_matched": false,
       "origin": "reference-adapted",
-      "reference_sha256": null,
-      "reason": "failed to query metadata of file `C:\\Users\\fryil\\OneDrive\\Documents\\FrYiLo Skins Database\\Riot Skins\\234/234043/234998/234998.fantome`: The system cannot find the path specified. (os error 3)"
+      "reference_sha256": "91068bab84cb3929f953959ee255f5b70ea60c848256df31dc7e90b413c6c2d1",
+      "reason": null
     },
     {
       "champion_id": 234,
@@ -111397,12 +111397,12 @@
       "parent": 234043,
       "name": "Revenant Reign Viego (Tank Sword)",
       "relative": "234/234043/234999/234999.fantome",
-      "status": "skipped",
-      "sha256": null,
+      "status": "accepted",
+      "sha256": "a59fd6f21c92648aa5fba754709a280e1baa37ec116cf0d67904b3c3e3ec0a01",
       "reference_matched": false,
       "origin": "reference-adapted",
-      "reference_sha256": null,
-      "reason": "failed to query metadata of file `C:\\Users\\fryil\\OneDrive\\Documents\\FrYiLo Skins Database\\Riot Skins\\234/234043/234999/234999.fantome`: The system cannot find the path specified. (os error 3)"
+      "reference_sha256": "a59fd6f21c92648aa5fba754709a280e1baa37ec116cf0d67904b3c3e3ec0a01",
+      "reason": null
     },
     {
       "champion_id": 112,
